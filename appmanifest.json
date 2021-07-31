@@ -1,6 +1,6 @@
 {
-	"name": "LockDown",
-	"short_name": "LockDown",
+	"name": "Lock The Box",
+	"short_name": "Lock The Box",
 	"description": "This is a fun game to kill the virus. Lockdown the area the kill a virus",
 	"start_url": "index.html",
 	"display": "fullscreen",
